@@ -1,0 +1,75 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-size: 20px;
+	color:#e27df2;
+}
+
+
+.hat{	
+	margin-bottom: 15px;
+	padding-right: 70px;
+	padding-left: 70px;
+}
+.hat1{
+	height:200px;
+	background-color:rgba(134, 143, 145, 0.7);
+	font-size: 40px;
+	text-align: center;
+	padding-top: 65px;
+	font-weight:bold;
+	color: #000000;
+}
+.sidbar{
+	width: 30%;
+	float:left;
+	padding-right:15px;
+	padding-left:70px;
+	
+}
+.sidbar1{
+	background-color:rgba(134, 143, 145, 0.7);
+	min-height: 600px;
+	text-indent: 25px;
+	padding-top: 15px;
+
+
+}
+.content{
+	padding-right:70px;
+	width: 70%;
+	float:left;	
+}
+.content1{
+	background-color:rgba(134, 143, 145, 0.7);
+	min-height: 600px;
+}
+a{
+	font-weight:bold;
+	color: #000000;
+	text-decoration: none;
+
+
+	
+}
+a:hover{
+	background-color:rgba(255, 255, 255, 0.3);
+	color: black;
+}
+.ssilka{
+	float:left;
+	padding-top: 9px;
+	
+}
+.icon{
+	float:left;	
+
+}
+.icon:hover{
+	background-color:rgba(255, 255, 255, 0.3);	
+}
+.ssilka:hover{
+	background-color:rgba(255, 255, 255, 0.3);
+}
